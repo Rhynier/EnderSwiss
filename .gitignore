@@ -1,0 +1,5 @@
+comms/
+*.bkp
+database/
+gcodes/
+logs/
